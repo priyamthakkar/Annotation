@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 4
+names: ['bladder', 'left kidney', 'right kidney', 'vertebrae']
